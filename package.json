@@ -1,0 +1,9 @@
+{
+  "name": "DemoWebStudents",
+  "version": "1.0.0",
+  "dependencies": {
+    "import-css": "^3.0.0",
+    "qs": "^6.11.2"
+  },
+  "type": "module"
+}
